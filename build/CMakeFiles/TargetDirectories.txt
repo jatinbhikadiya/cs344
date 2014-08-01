@@ -1,0 +1,6 @@
+/s/parsons/h/proj/vision/usr/jatin/cs575/udacity/cs344/build/HW1/CMakeFiles/HW1.dir
+/s/parsons/h/proj/vision/usr/jatin/cs575/udacity/cs344/build/HW2/CMakeFiles/HW2.dir
+/s/parsons/h/proj/vision/usr/jatin/cs575/udacity/cs344/build/HW3/CMakeFiles/HW3.dir
+/s/parsons/h/proj/vision/usr/jatin/cs575/udacity/cs344/build/HW4/CMakeFiles/HW4.dir
+/s/parsons/h/proj/vision/usr/jatin/cs575/udacity/cs344/build/HW5/CMakeFiles/HW5.dir
+/s/parsons/h/proj/vision/usr/jatin/cs575/udacity/cs344/build/HW6/CMakeFiles/HW6.dir
